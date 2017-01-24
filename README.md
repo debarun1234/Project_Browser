@@ -1,8 +1,8 @@
-# Project_Helios
-  Hi, this is the project were for now our team is creating am app only for android phones. our first year is going to be dedicated to the make an app which would control your TV shows like Netflix in a phone. Where the theme is that when a person click a show it would directly get connected to TV instead of playing it in the phone or do some miracast. it is completely different and new kind of innovations.
+# Project Helios
+  Hi, this is the project were for now our team is creating AI app only for android phones. Our first year will manly focus on controling your Android TV with this A.I to help the community with better shows to wtach on TV. We know that you would rather go with google cast that our app. But let you that this will just need the app to play you fav tv show and no extra device and this AI will tell you how it thinks about what you ask for example you come home and switch your tv on it will ask you how was day. It is completely different and new kind of innovations.
 
 # General Idea
-- meet a remote controller who can contol your shows in more advanced way
+- make a remote controling A.I that can contol your T.V in more advanced way that you can possible imagin. 
 
 # Requirements
 - Android SDk
@@ -10,9 +10,9 @@
 - Familiar with Material Design UI from Android developer
 
 # Test Device
-- Application will be compatible : Nexus 5 to Pixel XL
-- Android OS : 5.0.1 Lollipop to 7.0 Nougat
+- Application will be compatible : all google devices.
+- Android OS : 5.0.1 Lollipop to 7.1.1 Nougat and future updates.
 - Later Window (Visual Studio or 'C#' language
 
 # Connected Devices
-- Android TV : Mi box
+- Android TV : Mi box or any Android TV
