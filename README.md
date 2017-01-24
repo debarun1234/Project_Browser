@@ -10,7 +10,7 @@
 - Familiar with Material Design UI from Android developer
 
 # Test Device
-- Application will be compatible : all google devices.
+- Application will be compatible : All Devices.
 - Android OS : 5.0.1 Lollipop to 7.1.1 Nougat and future updates.
 - Later Window (Visual Studio or 'C#' language
 
