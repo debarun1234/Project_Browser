@@ -1,5 +1,5 @@
 # Project Helios
-  Hi, this is the project were for now our team is creating AI app only for android phones. Our first year will manly focus on controling your Android TV with this A.I to help the community with better shows to wtach on TV. We know that you would rather go with google cast that our app. But let you that this will just need the app to play you fav tv show and no extra device and this AI will tell you how it thinks about what you ask for example you come home and switch your tv on it will ask you how was day. It is completely different and new kind of innovations.
+  Hi, this is the project were for now our team is creating AI app only for android phones. Our first year will manly focus on controling your TV and your house with this A.I to help the community with better shows to wtach on TV. We know that you would rather go with google cast that our app. But let you that this will just need the app to play you fav tv show and no extra device and this AI will tell you how it thinks about what you ask for example you come home and switch your tv on it will ask you how was day. It is completely different and new kind of innovations.
 
 # General Idea
 - make a remote controling A.I that can contol your T.V in more advanced way that you can possible imagin. 
