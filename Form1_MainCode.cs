@@ -29,18 +29,19 @@ namespace TestApp
         {
             webBrowser1.Refresh();
         }
+/// part unnecessary        
         private void fIleToolStripMenuItem_Click(object sender, EventArgs e)
         {
             
 
         }
-
+/// part unnecessary
         private void newWIndowToolStripMenuItem_Click(object sender, EventArgs e)
         {
             
                                 
         }
-
+/// part necessary
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             var result = MessageBox.Show("This is made by Debarun Ghosh. It is a the first browser app and there will be more updates in the year long enjoy the app.");
