@@ -1,4 +1,4 @@
-/// please donot edit this code if needed can take a copy of it.
+/// please do not edit this code if needed can take a copy of it.
 /// This is C# language the strcture might not go well please make sure you design it in your way.
 
 namespace TestApp
