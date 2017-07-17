@@ -1,4 +1,4 @@
-/// Please note that some of the codes are repeated and some are sot recognizable
+/// Please note that some of the codes are repeated and some are not recognizable
 /// Please delete those section when copying
 
 using System;
